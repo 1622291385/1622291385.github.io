@@ -1,0 +1,31 @@
+body{
+  background: url(https://www.thetrevorproject.org/wp-content/uploads/2021/08/Tangerine-Violet_1440x800.jpg);
+  background-size:100% 100%;
+}
+
+.btn-primary{
+  background-color: #EE9B5C;
+  border: 1px solid #EE9B5C;
+}
+
+.btn-primary:hover{
+  background-color: #E97823;
+  border: 1px solid #E97823;
+}
+
+.card1{
+  background-color:#FFB073;
+}
+
+.card2{
+  background-color:#F1898A;
+}
+
+.card3{
+  background-color:#DA80A6;
+}
+
+.accordion-button{
+  background-color: #A17CF6;
+  border:1px solid #A17CF6;
+}
